@@ -7,10 +7,21 @@
         </div>
     </div>
 
-    <h2 class="section-title"><%= __('latest_posts') %></h2>
-    <% } %>
+    <% site.pages.each(function(page){ %>
+        <!-- <p><%= page.content %></p> -->
+        <% if (page.path == "bio.html") { %>
+            <div class="content">
+                <%- page.content %>
+            </div>
+        <% } %>
+    <% }); %>
 
-    <div class="post-list">
+    
+
+    <!-- <h2 class="section-title"><%= __('latest_posts') %></h2>
+    <% } %> -->
+
+    <!-- <div class="post-list">
         <% page.posts.each(function (post) { %>
         <article class="post-list-item">
             <a href="<%- url_for(post.path) %>">
@@ -44,7 +55,7 @@
             </a>
         </article>
         <% }) %>
-    </div>
+    </div> -->
 
     <%- partial('_partial/paginator') %>
 </div>

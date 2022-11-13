@@ -1,8 +1,9 @@
 ---
 title: About Me
+no_about: true
 ---
 
-![Photo](https://www.brookings.edu/wp-content/uploads/2019/06/addisu_lashitew.jpg)
+![Photo](https://www.degroote.mcmaster.ca/files/2021/11/Lashitew-Profile-pic-600x400.jpg)
 
 - Email: lashitea@mcmaster.ca 
 - Phone: +1.365.323.7802 

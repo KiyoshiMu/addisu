@@ -1,5 +1,6 @@
 ---
 title: Publications
+no_about: true
 ---
 
 - Birhanu, A. G., Getachew, Y. S., & Lashitew, A. A. (2022). [Gender Inequality in Performance During the Covid-19 Pandemic: Do Public Policy Responses Matter? Entrepreneurship Theory & Practice, 46(5)](https://journals.sagepub.com/doi/full/10.1177/10422587221077222)

@@ -1,6 +1,9 @@
 ---
 title: Engagement
+no_about: true
 ---
+
+### Blogs
 
 - [Digital Technologies Open up Vast Business Opportunities in Africa](https://african.business/2022/11/technology-information/digital-technologies-open-vast-business-opportunities-in-africa/) *Africa Business Magazine.November 2022.*
 
@@ -16,7 +19,9 @@ title: Engagement
 
 - [Small Business Green Recovery Fund"to Power U.S. Climate Transition.](https://www.brookings.edu/research/small-business-green-recovery-fund-to-power-us-climate-transition//) *Contributionto Brookings Institution's Blueprintfor Advancing Climate  Change Adaptationand Resilience. March 2021.*
 
-- [Howto Stop Ethnic Nationalism From Tearing Ethiopia Apart.](https://foreignpolicy.com/2021/02/11/ethiopia-how-stop-ethnic-nationalism-conflict-constitution/) *Foreign  Policy. February 2021.*
+- [How to Stop Ethnic Nationalism From Tearing Ethiopia Apart.](https://foreignpolicy.com/2021/02/11/ethiopia-how-stop-ethnic-nationalism-conflict-constitution/) *Foreign  Policy. February 2021.*
+
+### Journals
 
 - [International Trade during the Pandemic: Has Covid-19 Spared Africa?.](https://african.business/) *Africa Business Magazine. February 2021.*
 
@@ -31,6 +36,8 @@ title: Engagement
 - [Could Services Drive Globalizationinthe Post- C O V I D-19 World?](https://www.brookings.edu/blog/future-development/2020/06/17/could-services-drive-globalization-in-the-post-covid-19-world/) *Brookings Institution. June 2020.*
 
 - [Social Distancing Unlikelyto Holdwithouta Safety Netfor Microen-treprises.](https://www.brookings.edu/blog/africa-in-focus/2020/04/09/social-distancing-unlikely-to-hold-up-in-africa-without-a-safety-net-for-microentrepreneurs/) *Brookings Institution. April 2020.*
+
+### Magazines
 
 - [As Oil Prices Plummet, How Can Resource- Rich Countries Diversify  Their Economies?](https://www.brookings.edu/blog/future-development/2020/04/03/as-oil-prices-plummet-how-can-resource-rich-countries-diversify-their-economies/) *Brookings Institution.April 2020.*
 
