@@ -2,6 +2,8 @@
 title: About Me
 ---
 
+![Photo](https://www.brookings.edu/wp-content/uploads/2019/06/addisu_lashitew.jpg)
+
 - Email: lashitea@mcmaster.ca 
 - Phone: +1.365.323.7802 
 - Research Interests Website:[brookings.edu/addisu-lashitew](https://www.brookings.edu/experts/addisu-lashitew/)
