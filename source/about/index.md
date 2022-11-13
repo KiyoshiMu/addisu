@@ -62,7 +62,7 @@ title: About Me
 
 - Publications Social Sciences and Humanities Research Council of Canada *Stakeholder Capitalism and Workers’ Rights*: $60,000 (2022)
 
-- AERC Research Grant: **Power Outage & Firm Performance*: $20,000 (2018)
+- AERC Research Grant: *Power Outage & Firm Performance*: $20,000 (2018)
 
 - PhD Project Grant: Netherlands Organization for Scienti€c Research (NWO): Euros 210,000 (2010-2014)
 
