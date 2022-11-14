@@ -1,6 +1,7 @@
 ---
 title: Teaching
 no_about: true
+no_date: true
 ---
 
 My research has contributed towards improving our understanding of how inclusive business practices can address socio-economic challenges in developing countries. 

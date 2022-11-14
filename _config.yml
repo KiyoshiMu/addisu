@@ -3,14 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Addisu A. Lashitew
+title: Addisu Lashitew
 subtitle:
-description: Addisu A. Lashitew
+description: Addisu Lashitew
 keywords: Global Economy, Development, Addisu Lashitew
-author: Addisu A. Lashitew's
+author: Addisu Lashitew's
 language: en
 timezone: 'est'
-
+cover: https://www.degroote.mcmaster.ca/files/2021/11/Lashitew-Profile-pic-600x400.jpg
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

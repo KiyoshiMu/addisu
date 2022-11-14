@@ -1,6 +1,7 @@
 ---
 title: Research
 no_about: true
+no_date: true
 ---
 
 ## Publications

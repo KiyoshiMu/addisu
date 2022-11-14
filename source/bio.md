@@ -1,4 +1,3 @@
-![Photo](https://www.degroote.mcmaster.ca/files/2021/11/Lashitew-Profile-pic-600x400.jpg)
 
 I have made important contributions to vital research topics on women entrepreneurship, inclusive business and corporate sustainability. 
 
@@ -20,7 +19,6 @@ Global Economy and Development, Brookings Institution
 Website: [Brookings Institution](https://www.brookings.edu/experts/addisu-lashitew)
 
 - Email: lashitea@mcmaster.ca  |  alashitew@brookings.edu
-- Phone: +1.365.323.7802 
 - Research Interests Website:[brookings.edu/addisu-lashitew](https://www.brookings.edu/experts/addisu-lashitew/)
 - Office: DSB Building, Room 223, 1280 Main Street West, Hamilton, ON L8S 4M4
 - [LinkedIn](https://www.linkedin.com/in/addisu-lashitew-22030039)

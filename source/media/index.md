@@ -1,6 +1,7 @@
 ---
-title: Engagement
+title: Media
 no_about: true
+no_date: true
 ---
 
 ## Blogs
