@@ -46,7 +46,7 @@ rainbow_banner_month: 6
 
 # TOC - table of contents
 toc: true
-toc_max_depth: 2
+toc_max_depth: 3
 
 # scroll reveal (https://scrollrevealjs.org/) - animating elements as they enter/leave the viewport
 scroll_reveal: true
@@ -54,12 +54,12 @@ scroll_reveal: true
 # navigation config
 nav:
   # the title displays in the upper left corner which won't change
-  title: Addisu A. Lashitew
+  title: 🌍🌏🌎
   # the items displays in the upper right corner
   items:
     # these items will display as a link
     Research: /research
-    Publications: /publications
+    Teaching: /teaching
     Engagement: /engagement
     # Friends: /friends
     About: /about

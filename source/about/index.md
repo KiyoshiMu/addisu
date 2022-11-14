@@ -5,19 +5,42 @@ no_about: true
 
 ![Photo](https://www.degroote.mcmaster.ca/files/2021/11/Lashitew-Profile-pic-600x400.jpg)
 
-- Email: lashitea@mcmaster.ca 
+
+**Assistant Professor**
+
+DeGroote School of Business, McMaster University
+
+Website:[ McMaster University](https://experts.mcmaster.ca/display/lashitea)
+
+
+**Nonresident Fellow**
+
+Global Economy and Development, Brookings Institution       
+
+Website:[ Brookings Institution](https://www.brookings.edu/experts/addisu-lashitew)
+
+- Email: lashitea@mcmaster.ca  |  alashitew@brookings.edu
 - Phone: +1.365.323.7802 
 - Research Interests Website:[brookings.edu/addisu-lashitew](https://www.brookings.edu/experts/addisu-lashitew/)
-- Office: 1760 Main St. W, Hamilton, ON, L8S 1H2
+- Office: DSB Building, Room 223, 1280 Main Street West, Hamilton, ON L8S 4M4
 
-### Research Interests
+
+## Social and Academic Network
+
+- [LinkedIn](https://www.linkedin.com/in/addisu-lashitew-22030039)
+- [Twitter](https://twitter.com/addisulashitew?lang=en)
+- [Google Scholar](https://scholar.google.com/citations?user=k6mc4vsAAAAJ&hl=en&oi=ao)
+- [Research Gate](https://www.researchgate.net/profile/Addisu-Lashitew-2)
+
+
+## Research Interests
 
 - Social entrepreneurship
 - Innovation studies
 - Firm performance
 - Business & society issues
 
-### Education
+## Education
 
 - **University of Groningen, Groningen, Netherlands**
     PhD in Economics
@@ -28,7 +51,7 @@ no_about: true
     MSc in Environmental Economics
     Minor in Development Economics
 
-### Employment History
+## Employment History
     
 - **McMaster University, Hamilton, ON, Canada**
     Assistant Professor (Nov. 2021- present)
@@ -59,7 +82,7 @@ no_about: true
     Lecturer at Dep. of Global Economics & Management (Jan. 2014- Feb. 2015)
     Courses Taught: International Business & Economics, Intermediate Research Methods, Strategy, Culture & Economics
 
-### Grants and Scholarships
+## Grants and Scholarships
 
 - Publications Social Sciences and Humanities Research Council of Canada *Stakeholder Capitalism and Workers’ Rights*: $60,000 (2022)
 
