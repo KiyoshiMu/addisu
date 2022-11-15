@@ -14,7 +14,7 @@ cover: https://www.degroote.mcmaster.ca/files/2021/11/Lashitew-Profile-pic-600x4
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://kiyoshimu.github.io/addisu/
+url: https://addisulash.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,7 +104,8 @@ theme: hexo-theme-cupertino
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/KiyoshiMu/addisu.git
+  repo: https://github.com/AddisuLash/addisulash.github.io.git
+  branch: gh-pages
 
 search:
   path: search.json

@@ -7,22 +7,17 @@ no_date: true
 ![Photo](https://www.degroote.mcmaster.ca/files/2021/11/Lashitew-Profile-pic-600x400.jpg)
 
 
-**Assistant Professor**
-
+[**Assistant Professor**](https://experts.mcmaster.ca/display/lashitea)
 DeGroote School of Business, McMaster University
+[lashitea@mcmaster.ca](lashitea@mcmaster.ca)
 
-Website:[ McMaster University](https://experts.mcmaster.ca/display/lashitea)
-
-
-**Nonresident Fellow**
-
+[**Nonresident Fellow**](https://www.brookings.edu/experts/addisu-lashitew)
 Global Economy and Development, Brookings Institution       
+[alashitew@brookings.edu](alashitew@brookings.edu)
 
-Website:[ Brookings Institution](https://www.brookings.edu/experts/addisu-lashitew)
+Office: DSB Building, Room 223, 1280 Main Street West, Hamilton, ON L8S 4M4
 
-- Email: lashitea@mcmaster.ca  |  alashitew@brookings.edu
-- Research Interests Website:[brookings.edu/addisu-lashitew](https://www.brookings.edu/experts/addisu-lashitew/)
-- Office: DSB Building, Room 223, 1280 Main Street West, Hamilton, ON L8S 4M4
+**My Curriculum vitae can be found [HERE](https://www.brookings.edu/experts/addisu-lashitew).**
 
 
 ## Social and Academic Network

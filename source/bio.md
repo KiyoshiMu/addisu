@@ -1,3 +1,11 @@
+[**Assistant Professor**](https://experts.mcmaster.ca/display/lashitea)
+DeGroote School of Business, McMaster University
+[lashitea@mcmaster.ca](lashitea@mcmaster.ca)
+
+[**Nonresident Fellow**](https://www.brookings.edu/experts/addisu-lashitew)
+Global Economy and Development, Brookings Institution       
+[alashitew@brookings.edu](alashitew@brookings.edu)
+
 
 I have made important contributions to vital research topics on women entrepreneurship, inclusive business and corporate sustainability. 
 
@@ -7,21 +15,5 @@ The results, which were also shared as a policy piece that was published by Broo
 
 The results also revealed how sound public policies in some countries were able to reduce the negative effect of the pandemic on women entrepreneurs.
 
-## Contact
 
-**Assistant Professor**
-DeGroote School of Business, McMaster University
-Website: [McMaster University](https://experts.mcmaster.ca/display/lashitea)
-
-
-**Nonresident Fellow**
-Global Economy and Development, Brookings Institution       
-Website: [Brookings Institution](https://www.brookings.edu/experts/addisu-lashitew)
-
-- Email: lashitea@mcmaster.ca  |  alashitew@brookings.edu
-- Research Interests Website:[brookings.edu/addisu-lashitew](https://www.brookings.edu/experts/addisu-lashitew/)
-- Office: DSB Building, Room 223, 1280 Main Street West, Hamilton, ON L8S 4M4
-- [LinkedIn](https://www.linkedin.com/in/addisu-lashitew-22030039)
-- [Twitter](https://twitter.com/addisulashitew?lang=en)
-- [Google Scholar](https://scholar.google.com/citations?user=k6mc4vsAAAAJ&hl=en&oi=ao)
-- [Research Gate](https://www.researchgate.net/profile/Addisu-Lashitew-2)
+[<img style="height:2rem;width:auto;border-radius:0;border-radius: 8px;background-color:white;margin:1rem;" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg">](https://www.linkedin.com/in/addisu-lashitew-22030039)[<img style="height:2rem;width:auto;border-radius:0;border-radius: 8px;background-color:white;margin:1rem;" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg">](https://twitter.com/addisulashitew?lang=en)[<img style="height:2rem;width:auto;border-radius:0;border-radius: 8px;background-color:white;margin:1rem;" src="https://ajpsa.smartsociety.org/wp-content/uploads/2020/09/Google-Scholar-logo.png">](https://scholar.google.com/citations?user=k6mc4vsAAAAJ&hl=en&oi=ao)[<img style="height:2rem;width:auto;border-radius:0;border-radius: 8px;background-color:white;margin:1rem;" src="https://telegra.ph/file/a20eba6e731416eb4cffa.jpg">](https://www.researchgate.net/profile/Addisu-Lashitew-2)
