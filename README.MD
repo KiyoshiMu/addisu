@@ -1,4 +1,41 @@
+
+## Prerequisite
+
+**If you have installed any, please skip that one**
+
+1. Install Node Js https://nodejs.org/en/download/
+
+1. Install Git https://github.com/git-guides/install-git
+
+
+### Open your terminal
+
+1. Config Git
+
+       git config --global credential.helper store
+
+1. Install Hexo
+
+       npm install hexo-cli -g
+
+1. Clone this Repo
+
+       git clone https://github.com/AddisuLash/addisulash.github.io.git
+
+1. CD to the Repo folder
+
+       cd addisulash.github.io.git
+
+1. Install Hexo helper
+
+       npm install hexo-deployer-git --save
+    
+       npm install hexo-generator-search --save
 ## How to Change the content
+
+You can learn [how to write](https://www.markdownguide.org/basic-syntax/) in a few minutes.
+
+Use any editor change the related following files. Recommend [VScode](https://code.visualstudio.com/download).
 
 ### Home Bio
 
@@ -8,24 +45,22 @@ source\bio.md
 
 source\about\index.md
 
-### Engagement
+### Media
 
-source\engagement\index.md
+source\media\index.md
 
-### Publications
+### Teaching
 
-source\publications\index.md
+source\teaching\index.md
 
 ### Research
 
 source\research\index.md
 
-## Command Lines
+## Check Locally
 
-### Prepare (only need to run if you never run them before)
-    npm install hexo-deployer-git --save
-    npm install hexo-generator-search --save
+    hexo g && hexo s
 
-### Deploy
+## Deploy
     
     hexo clean && hexo deploy

@@ -1,11 +1,11 @@
 {
     "dir": "ltr",
     "lang": "en",
-    "name": "Mr. Will",
-    "short_name": "Mr. Will",
+    "name": "Addisu Lashitew",
+    "short_name": "Addisu Lashitew",
     "scope": "/",
     "display": "fullscreen",
-    "start_url": "https://mrwillcom.now.sh/",
+    "start_url": "https://www.addisulashitew.net/",
     "background_color": "transparent",
     "theme_color": "transparent",
     "description": "",
@@ -13,6 +13,6 @@
     "related_applications": [],
     "prefer_related_applications": false,
     "icons": [],
-    "url": "https://mrwillcom.now.sh/",
+    "url": "https://www.addisulashitew.net/",
     "screenshots": []
 }
