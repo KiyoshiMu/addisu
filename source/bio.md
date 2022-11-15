@@ -1,10 +1,10 @@
 [**Assistant Professor**](https://experts.mcmaster.ca/display/lashitea)
 DeGroote School of Business, McMaster University
-[lashitea@mcmaster.ca](lashitea@mcmaster.ca)
+[lashitea@mcmaster.ca](mailto:lashitea@mcmaster.ca)
 
 [**Nonresident Fellow**](https://www.brookings.edu/experts/addisu-lashitew)
 Global Economy and Development, Brookings Institution       
-[alashitew@brookings.edu](alashitew@brookings.edu)
+[alashitew@brookings.edu](mailto:alashitew@brookings.edu)
 
 
 I have made important contributions to vital research topics on women entrepreneurship, inclusive business and corporate sustainability. 

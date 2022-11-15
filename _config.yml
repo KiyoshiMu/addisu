@@ -14,7 +14,7 @@ cover: https://www.degroote.mcmaster.ca/files/2021/11/Lashitew-Profile-pic-600x4
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://addisulash.github.io
+url: https://www.addisulashitew.net
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

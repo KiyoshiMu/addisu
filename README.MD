@@ -37,6 +37,11 @@ You can learn [how to write](https://www.markdownguide.org/basic-syntax/) in a f
 
 Use any editor change the related following files. Recommend [VScode](https://code.visualstudio.com/download).
 
+
+You can open the website locally. Change the content and check the result.
+
+    hexo g && hexo s
+
 ### Home Bio
 
 source\bio.md
@@ -57,9 +62,7 @@ source\teaching\index.md
 
 source\research\index.md
 
-## Check Locally
-
-    hexo g && hexo s
+For more complex design change, please contact [kiyoshi0mu@gmail.com](mailto:kiyoshi0mu@gmail.com).
 
 ## Deploy
     
