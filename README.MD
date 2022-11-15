@@ -26,11 +26,9 @@
 
        cd addisulash.github.io.git
 
-1. Install Hexo helper
+1. Install dependencies
 
-       npm install hexo-deployer-git --save
-    
-       npm install hexo-generator-search --save
+       npm i
 ## How to Change the content
 
 You can learn [how to write](https://www.markdownguide.org/basic-syntax/) in a few minutes.
