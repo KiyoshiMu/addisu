@@ -42,6 +42,34 @@ You can open the website locally. Change the content and check the result.
 
     hexo g && hexo s
 
+### 
+
+It's somewhat difficult to change the title size in home page.
+
+You can change its font size at
+
+       themes/hexo-theme-cupertino/source/css/index.css
+
+For large screens, change
+
+ ```css
+ .hero .large {
+    font-size: 4vw;
+    ...
+}
+```
+
+For small screens, change
+
+ ```css
+@media screen and (max-width: 800px) {
+    .hero .large {
+        font-size: 7vw;
+        ...
+    }
+}
+```
+
 ### Home Bio
 
 source\bio.md
