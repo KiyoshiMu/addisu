@@ -24,7 +24,7 @@
 
 1. CD to the Repo folder
 
-       cd addisulash.github.io.git
+       cd addisulash.github.io
 
 1. Install dependencies
 
