@@ -12,7 +12,9 @@
 
 1. Config Git
 
-       git config --global credential.helper store
+       git config --global user.name "AddisuLash"
+       
+       git config --global user.email FeloraddX1973_
 
 1. Install Hexo
 
