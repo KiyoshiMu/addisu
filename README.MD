@@ -42,6 +42,33 @@ You can open the website locally. Change the content and check the result.
 
     hexo g && hexo s
     
+### How to change image size
+
+#### Home page
+
+Change the width in your `addisulash.github.io/themes/hexo-theme-cupertino/source/css/index.css` file
+
+```css
+img {
+  ...
+  width: 75%;
+}
+```
+
+#### Article Page
+
+Change the width in your `addisulash.github.io/themes/hexo-theme-cupertino/source/css/post.css` file
+
+Add `width: 90%;` then change the width.
+
+```css
+.content p img,
+.content .block-large img {
+  border-radius: 10px;
+  width: 90%;
+}
+```
+
 ### How to add image
 
 #### Solution 1
@@ -51,7 +78,7 @@ You can open the website locally. Change the content and check the result.
 1. Follow the markdown syntax.
 
 ```markdown
-![img][URL]
+![img](URL)
 ```
 
 #### Solution 2 (may not work)
@@ -61,7 +88,7 @@ You can open the website locally. Change the content and check the result.
 1. Follow the markdown syntax. Here the URL will just be your image name, like *img.jpg*.
 
 ```markdown
-![img][URL]
+![img](URL)
 ```
 
 ### How to change Home Page title size
