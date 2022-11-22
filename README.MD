@@ -83,7 +83,7 @@ Add `width: 90%;` then change the width.
 
 #### Solution 2 (may not work)
 
-1. Put the image in local addisulash.github.io/source/ folder.
+1. Put the image in local `addisulash.github.io/source/` folder.
 
 1. Follow the markdown syntax. Here the URL will just be your image name, like *img.jpg*.
 
@@ -97,7 +97,7 @@ It's somewhat difficult to change the title size in home page.
 
 You can change its font size at
 
-themes/hexo-theme-cupertino/source/css/index.css
+`themes/hexo-theme-cupertino/source/css/index.css`
 
 For large screens, change
 
@@ -121,23 +121,23 @@ For small screens, change
 
 ### Home Bio
 
-source\bio.md
+`source\bio.md`
 
 ### About
 
-source\about\index.md
+`source\about\index.md`
 
 ### Media
 
-source\media\index.md
+`source\media\index.md`
 
 ### Teaching
 
-source\teaching\index.md
+`source\teaching\index.md`
 
 ### Research
 
-source\research\index.md
+`source\research\index.md`
 
 For more complex design change, please contact [kiyoshi0mu@gmail.com](mailto:kiyoshi0mu@gmail.com).
 
