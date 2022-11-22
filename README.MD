@@ -12,9 +12,9 @@
 
 1. Config Git
 
-       git config --global user.name "AddisuLash"
+       git config --global user.name [YOUR USERNAME]
        
-       git config --global user.email FeloraddX1973_
+       git config --global user.email [YOUR EMAIL]
 
 1. Install Hexo
 
@@ -41,14 +41,36 @@ Use any editor change the related following files. Recommend [VScode](https://co
 You can open the website locally. Change the content and check the result.
 
     hexo g && hexo s
+    
+### How to add image
 
-### 
+#### Solution 1
+
+1. Upload image to a hosting place, e.g. [Google Drive](https://www.labnol.org/google-drive-image-hosting-220515) and get its URL. 
+
+1. Follow the markdown syntax.
+
+```markdown
+![img][URL]
+```
+
+#### Solution 2 (may not work)
+
+1. Put the image in local addisulash.github.io/source/ folder.
+
+1. Follow the markdown syntax. Here the URL will just be your image name, like *img.jpg*.
+
+```markdown
+![img][URL]
+```
+
+### How to change Home Page title size
 
 It's somewhat difficult to change the title size in home page.
 
 You can change its font size at
 
-       themes/hexo-theme-cupertino/source/css/index.css
+themes/hexo-theme-cupertino/source/css/index.css
 
 For large screens, change
 
