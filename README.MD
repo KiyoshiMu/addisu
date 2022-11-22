@@ -61,6 +61,17 @@ Change the width in your `addisulash.github.io/themes/hexo-theme-cupertino/sourc
 
 Add `width: 90%;` then change the width.
 
+From
+```css
+.content p img,
+.content .block-large img {
+  border-radius: 10px;
+}
+```
+
+To
+
+
 ```css
 .content p img,
 .content .block-large img {
